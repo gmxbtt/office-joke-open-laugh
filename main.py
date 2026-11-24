@@ -6,6 +6,7 @@ The joke is a single line of UTF-8 text, 1-200 characters, about office life.
 
 import os
 
+# The entry: one original office joke, 123 characters, a single line.
 JOKE = "I automated my job with a script, and now I spend eight hours a day in meetings explaining to my boss how the script works."
 
 
